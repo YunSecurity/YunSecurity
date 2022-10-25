@@ -19,3 +19,4 @@
 - https://github.com/iridium-soda/Container-Security-Gitbook
 - https://github.com/HXSecurity/TerraformGoat
 - https://github.com/HXSecurity/CloudSecWiki
+- https://github.com/chaitin/veinmind-tools
