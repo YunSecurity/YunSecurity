@@ -12,7 +12,6 @@
 - https://github.com/Metarget/cloud-native-security-book
 - https://github.com/RManLuo/ML_Malware_detect
 - https://github.com/teamssix/awesome-cloud-security
-- https://github.com/Esonhugh/Attack_Code
 - https://github.com/wx-chevalier/Cloud-Series
 - https://github.com/gccpacman/aliyun-acp-secure
 - https://github.com/ShadowFl0w/Cloud-Native-Security-Test
@@ -20,3 +19,6 @@
 - https://github.com/HXSecurity/TerraformGoat
 - https://github.com/HXSecurity/CloudSecWiki
 - https://github.com/chaitin/veinmind-tools
+- https://www.freebuf.com/articles/es/347244.html
+- https://github.com/4ndersonLin/awesome-cloud-security
+- https://github.com/traefik/traefik
